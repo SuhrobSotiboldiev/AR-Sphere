@@ -1,0 +1,11 @@
+com.DefaultCompany.ARAstranaut.launcher-jetified-VuforiaEngine-0 C:\Users\Sukhrob\.gradle\caches\transforms-3\4f8f7e6717f9997ea46b6bfc9367569e\transformed\jetified-VuforiaEngine\res
+com.DefaultCompany.ARAstranaut.launcher-jetified-core-1.36.0-1 C:\Users\Sukhrob\.gradle\caches\transforms-3\d5e017fbc646108d278d9d065862a3b2\transformed\jetified-core-1.36.0\res
+com.DefaultCompany.ARAstranaut.launcher-pngs-2 D:\Unity_Projects\AR Astranaut\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.ARAstranaut.launcher-resValues-3 D:\Unity_Projects\AR Astranaut\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.ARAstranaut.launcher-rs-4 D:\Unity_Projects\AR Astranaut\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.ARAstranaut.launcher-mergeReleaseResources-5 D:\Unity_Projects\AR Astranaut\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.ARAstranaut.launcher-mergeReleaseResources-6 D:\Unity_Projects\AR Astranaut\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.ARAstranaut.launcher-merged_res-7 D:\Unity_Projects\AR Astranaut\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.ARAstranaut.launcher-main-8 D:\Unity_Projects\AR Astranaut\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.DefaultCompany.ARAstranaut.launcher-release-9 D:\Unity_Projects\AR Astranaut\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.DefaultCompany.ARAstranaut.launcher-packaged_res-10 D:\Unity_Projects\AR Astranaut\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release

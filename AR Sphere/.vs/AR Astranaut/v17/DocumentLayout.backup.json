@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sukhrob\\AR Astranaut\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17E0B5DB-8740-0D2D-D5A3-E732FCEF87FF}|Assembly-CSharp.csproj|c:\\users\\sukhrob\\ar astranaut\\assembly-csharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17E0B5DB-8740-0D2D-D5A3-E732FCEF87FF}|Assembly-CSharp.csproj|solutionrelative:assembly-csharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{922A699F-C0BF-AA9F-35A5-390DB46086E2}|Assembly-CSharp-Editor.csproj|c:\\users\\sukhrob\\ar astranaut\\assembly-csharp-editor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{922A699F-C0BF-AA9F-35A5-390DB46086E2}|Assembly-CSharp-Editor.csproj|solutionrelative:assembly-csharp-editor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assembly-CSharp-Editor",
+              "DocumentMoniker": "C:\\Users\\Sukhrob\\AR Astranaut\\Assembly-CSharp-Editor.csproj",
+              "RelativeDocumentMoniker": "Assembly-CSharp-Editor.csproj",
+              "ToolTip": "C:\\Users\\Sukhrob\\AR Astranaut\\Assembly-CSharp-Editor.csproj",
+              "RelativeToolTip": "Assembly-CSharp-Editor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T08:26:03.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assembly-CSharp",
+              "DocumentMoniker": "C:\\Users\\Sukhrob\\AR Astranaut\\Assembly-CSharp.csproj",
+              "RelativeDocumentMoniker": "Assembly-CSharp.csproj",
+              "ToolTip": "C:\\Users\\Sukhrob\\AR Astranaut\\Assembly-CSharp.csproj",
+              "RelativeToolTip": "Assembly-CSharp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T08:26:01.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
